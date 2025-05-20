@@ -1,0 +1,16 @@
+{
+  "tareas": [
+    {
+      "id": "mawnw8ql-nbbsyvs",
+      "titulo": "zustand prueba",
+      "descripcion": "tp de zustand",
+      "fechaLimite": "2025-05-20"
+    },
+    {
+      "id": "mawo2psb-vcm3i4x",
+      "titulo": "Estudiar Base de datos",
+      "descripcion": "hay parcial en la fecha establecida",
+      "fechaLimite": "2025-05-31"
+    }
+  ]
+}
